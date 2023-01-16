@@ -13,13 +13,13 @@ stages:
   is_completed: true
 - id: 616
   step: 9927
-  is_completed: false
+  is_completed: true
 - id: 617
   step: 9928
-  is_completed: false
+  is_completed: true
 - id: 618
   step: 9929
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Computer programming
